@@ -10,8 +10,8 @@ Currently we have:
 
 ## Information on files
 
-physconst.py
-: This module just contains some physical constants in cgs units.
+- physconst.py
+  This module just contains some physical constants in cgs units  
   Usage:
   ``` python
   import physconst as pc
